@@ -1,2 +1,2 @@
 # Pagina-de-Receita
-Projeto da rocketseat
+Projeto de pagina de receita usando html e css
